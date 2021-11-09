@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://www.github.com/nftstorage/nft.storage/compare/website-v1.10.0...website-v1.11.0) (2021-11-09)
+
+
+### Features
+
+* add FAQ page ([#731](https://www.github.com/nftstorage/nft.storage/issues/731)) ([72f15e7](https://www.github.com/nftstorage/nft.storage/commit/72f15e78c8574f01c50f23304fdd150ca78ddedb))
+
 ## [1.10.0](https://www.github.com/nftstorage/nft.storage/compare/website-v1.9.0...website-v1.10.0) (2021-11-08)
 
 
